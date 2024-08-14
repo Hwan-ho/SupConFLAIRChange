@@ -2,7 +2,7 @@
 
 ---
 
-**Note:** This repository is for sharing our code used in
+**Note:** This repository is for sharing our codes and resources used in
 
 ** Paper title TBD **
 
