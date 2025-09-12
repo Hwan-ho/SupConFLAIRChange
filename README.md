@@ -6,7 +6,6 @@
 
 ** Paper title TBD **
 
-The codes for deep learning will be made available on GitHub upon publication.
 
 ---
 
