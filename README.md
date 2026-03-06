@@ -4,7 +4,7 @@
 
 **Note:** This repository is for sharing our codes and resources used in
 
-** Paper title TBD **
+"Automated detection of new cerebral infarctions and prognostic implications using deep learning on serial MRI", npj Digital Medicine (in press)
 
 
 ---
