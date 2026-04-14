@@ -4,7 +4,9 @@
 
 **Note:** This repository is for sharing our codes and resources used in
 
-"Automated detection of new cerebral infarctions and prognostic implications using deep learning on serial MRI", npj Digital Medicine (in press)
+"Automated detection of new cerebral infarctions and prognostic implications using deep learning on serial MRI", npj Digital Medicine 
+
+https://www.nature.com/articles/s41746-026-02511-x
 
 
 ---
